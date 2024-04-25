@@ -1,3 +1,3 @@
 # statsbomb-opendata-analytics
 
-Football analytics with Statsbomb open data.
+Statsbomb veriseti ile futbol uzerine analizler.
