@@ -1,5 +1,4 @@
-# Statsbomb Veriseti ile Keşif Analizleri
+# Exploratory Analyzes with Statsbomb Data
 
-StatsBomb halka açık veriseti ile futbol verilerini keşfetmeye giriş. Pas haritaları, şut haritaları, ısı haritaları gibi görseller ile analizi zenginleştireceğiz.
-
+An introduction to exploring football data with the StatsBomb public dataset. We will enrich the analysis with visuals such as passing maps, shooting maps, heat maps.
 
